@@ -16,14 +16,17 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/jeksilaen/MKPL-W13-1302203120</url>
     </repository>
   </distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
+     <sonar.organization>jeksilaen</sonar.organization>
+     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
+
   
 </project>
 
